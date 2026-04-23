@@ -41,10 +41,65 @@
   <img src="https://skillicons.dev/icons?i=laravel,php,nextjs,react,tailwind,js,ts,nodejs,express,mysql,postgres,git,github,docker,redis,nginx,vscode,postman,figma,flutter,firebase" alt="Skills" />
 </div>
 
-<!-- SKILLS RADAR CHART (using mermaid) -->
-<h2 align="center">📊 Skills Proficiency Radar</h2>
+<!-- 📊 SKILLS PROFICIENCY RADAR - TEXT VERSION (WORKING) -->
+<h2 align="center">📊 Skills Proficiency Matrix</h2>
 <div align="center">
-  <img src="https://mermaid.ink/svg/pako:eNqFkr9uwjAQxl_FOoOlEn8aEmGLKhUDQ6tKMFVdXGMSHBw7sp2iCvHudZoSCmrpZMl33-_uO51MpFQyIbjCazLhaZox3ajGZJIQvqM-M52kZFuTpzUPPEmMJTmprdGGDN1r5n1NLDXxTDiHdrC1IT0kUZrBya8VZ96cE90QUpNVpKpR7BmOaDzBySuiWTVIBJQwqBptnN4HxvK4q4hnAg-rYCR8Ejd15hK-hhF6MRRrqZzNQ0mK4QIGnrWLZQo85MfJ_z-D7_gOinVTXqF6u9P-Ku3AB3xxqcKh4oHBqI0n-sMW6QC7TLXrJ00lhr2W8OeFzhgnJtPz2jWZkQX9kVDgczlsn5SCjqUQZ6RT3cUJzS8fF9x2" alt="Skills Radar" width="80%" />
+  <table width="85%">
+    <tr align="center">
+      <th>Skill</th>
+      <th>Level</th>
+      <th>Progress</th>
+      <th>Years Exp</th>
+    </tr>
+    <tr>
+      <td><b>🚀 Laravel</b></td>
+      <td>Expert</td>
+      <td><img src="https://progress-bar.dev/95/" width="200" /></td>
+      <td>5+ yrs</td>
+    </tr>
+    <tr>
+      <td><b>⚛️ Next.js / React</b></td>
+      <td>Advanced</td>
+      <td><img src="https://progress-bar.dev/88/" width="200" /></td>
+      <td>4+ yrs</td>
+    </tr>
+    <tr>
+      <td><b>🎨 Tailwind CSS</b></td>
+      <td>Expert</td>
+      <td><img src="https://progress-bar.dev/92/" width="200" /></td>
+      <td>5+ yrs</td>
+    </tr>
+    <tr>
+      <td><b>🐘 PHP (OOP)</b></td>
+      <td>Expert</td>
+      <td><img src="https://progress-bar.dev/95/" width="200" /></td>
+      <td>6+ yrs</td>
+    </tr>
+    <tr>
+      <td><b>📜 JavaScript/ES6</b></td>
+      <td>Advanced</td>
+      <td><img src="https://progress-bar.dev/85/" width="200" /></td>
+      <td>5+ yrs</td>
+    </tr>
+    <tr>
+      <td><b>🗄️ MySQL/PostgreSQL</b></td>
+      <td>Advanced</td>
+      <td><img src="https://progress-bar.dev/82/" width="200" /></td>
+      <td>5+ yrs</td>
+    </tr>
+    <tr>
+      <td><b>🐳 Docker/DevOps</b></td>
+      <td>Intermediate</td>
+      <td><img src="https://progress-bar.dev/55/" width="200" /></td>
+      <td>1+ yrs</td>
+    </tr>
+    <tr>
+      <td><b>☁️ AWS Cloud</b></td>
+      <td>Intermediate</td>
+      <td><img src="https://progress-bar.dev/50/" width="200" /></td>
+      <td>1+ yrs</td>
+    </tr>
+  </table>
 </div>
 
 <!-- GITHUB ACTIVITY GRAPH -->
@@ -53,10 +108,90 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mizanur-Rahman07&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=00F7FF&line=FF69B4&point=FFFFFF" width="95%" />
 </div>
 
-<!-- WORK EXPERIENCE TIMELINE (using mermaid) -->
+<!-- 💼 WORK EXPERIENCE TIMELINE - TEXT VERSION (WORKING) -->
 <h2 align="center">💼 Experience Timeline</h2>
 <div align="center">
-  <img src="https://mermaid.ink/svg/pako:eNqFks9ugzAMxl_F4rRd2lRZql07TUzTztsm9tC0B-AE0zQSSMm3MYR49wWElgHqyhbYv59tf_IllNQokT0_S0EuSItwX1g5L4JIvxC8sc0JlATDONLShLgrBZbSoMlT_QjfZ-dPS9KD1VhNc8VdPdlS2tL3_c3K0VJdHfGFzHd6_-TGCY6G0Y21v9n0nKjxBRHruWk5k-SY5lUMJf98lsmMEZV2Emf41HmRcU8qhqYyR-npNirjE4Y0lyW35tqWTc0J0Z7y_d90BmU2I74uCN46pC2y3EjLJksJ89k0KeWAFNZOjNhkQ-CwZzW9C-1rxJL7n15p8fUVtYj2Ag" alt="Experience Timeline" width="80%" />
+  <table width="90%">
+    <tr align="center">
+      <th>Year</th>
+      <th>Position</th>
+      <th>Company</th>
+      <th>Key Responsibilities</th>
+    </tr>
+    <tr>
+      <td><b>2024–Present</b></td>
+      <td><b>Senior Software Engineer</b></td>
+      <td>Ibrahim Tech BD</td>
+      <td>Leading dev team, HRM/CRM/SMS systems, E-commerce platforms</td>
+    </tr>
+    <tr>
+      <td><b>2024</b></td>
+      <td><b>Web Developer (Remote)</b></td>
+      <td>Thirtymins.com (UK)</td>
+      <td>HRM & subscription-based restaurant management system</td>
+    </tr>
+    <tr>
+      <td><b>2023–2024</b></td>
+      <td><b>Full Stack Web Developer</b></td>
+      <td>Biddabari</td>
+      <td>E-commerce, school management, IT course platforms</td>
+    </tr>
+    <tr>
+      <td><b>2021–2023</b></td>
+      <td><b>Web Developer</b></td>
+      <td>CODEXCUBE.COM</td>
+      <td>ERP/CRM systems, e-commerce sites, large-scale software</td>
+    </tr>
+  </table>
+</div>
+
+<!-- 🗺️ 2025 CAREER ROADMAP - TEXT VERSION (WORKING) -->
+<h2 align="center">🗺️ 2025 Career Roadmap & Goals</h2>
+<div align="center">
+  <table width="85%">
+    <tr align="center">
+      <th>Goal</th>
+      <th>Timeline</th>
+      <th>Status</th>
+      <th>Priority</th>
+    </tr>
+    <tr>
+      <td><b>Advanced Laravel Microservices</b></td>
+      <td>Jan–Jun 2025</td>
+      <td>🔄 In Progress</td>
+      <td>🔴 High</td>
+    </tr>
+    <tr>
+      <td><b>Docker & Kubernetes Mastery</b></td>
+      <td>Mar–Jul 2025</td>
+      <td>⏳ Planned</td>
+      <td>🔴 High</td>
+    </tr>
+    <tr>
+      <td><b>AWS (EC2, S3, RDS, Lambda)</b></td>
+      <td>Jul–Sep 2025</td>
+      <td>⏳ Planned</td>
+      <td>🟡 Medium</td>
+    </tr>
+    <tr>
+      <td><b>Flutter for Production Apps</b></td>
+      <td>Jun–Oct 2025</td>
+      <td>⏳ Planned</td>
+      <td>🟡 Medium</td>
+    </tr>
+    <tr>
+      <td><b>Open Source Contribution</b></td>
+      <td>Year-round</td>
+      <td>✅ Active</td>
+      <td>🟢 Ongoing</td>
+    </tr>
+    <tr>
+      <td><b>Team Leadership & Management</b></td>
+      <td>2025 Q3-Q4</td>
+      <td>📚 Learning</td>
+      <td>🟡 Medium</td>
+    </tr>
+  </table>
 </div>
 
 <!-- FEATURED PROJECTS WITH METRICS -->
@@ -70,34 +205,34 @@
       <th>Status</th>
     </tr>
     <tr>
-      <td><b>Laptop Ache</b></td>
-      <td>Full-featured e-commerce platform for electronics</td>
-      <td>Laravel • MySQL • Tailwind • Livewire</td>
-      <td><img src="https://img.shields.io/badge/LIVE-00FF00?style=flat-square" /></td>
+      <td><b>Laptop Ache</b></b></td>
+      <td>Full-featured e-commerce platform for electronics</b></td>
+      <td>Laravel • MySQL • Tailwind • Livewire</b></b></td>
+      <td><img src="https://img.shields.io/badge/LIVE-00FF00?style=flat-square" /></b></td>
     </tr>
     <tr>
-      <td><b>Boi Ache</b></td>
-      <td>Online bookstore with cart & order management</td>
-      <td>Next.js • Laravel API • Tailwind</td>
-      <td><img src="https://img.shields.io/badge/LIVE-00FF00?style=flat-square" /></td>
+      <td><b>Boi Ache</b></b></td>
+      <td>Online bookstore with cart & order management</b></td>
+      <td>Next.js • Laravel API • Tailwind</b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></td>
+      <td><img src="https://img.shields.io/badge/LIVE-00FF00?style=flat-square" /></b></td>
     </tr>
     <tr>
-      <td><b>Edu Poribar</b></td>
-      <td>Complete School Management System</td>
-      <td>Laravel • FilamentPHP • MySQL</td>
-      <td><img src="https://img.shields.io/badge/LIVE-00FF00?style=flat-square" /></td>
+      <td><b>Edu Poribar</b></b></td>
+      <td>Complete School Management System</b></td>
+      <td>Laravel • FilamentPHP • MySQL</b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></td>
+      <td><img src="https://img.shields.io/badge/LIVE-00FF00?style=flat-square" /></b></td>
     </tr>
     <tr>
-      <td><b>BritBite</b></td>
-      <td>Subscription-based restaurant management</td>
-      <td>Laravel • Vue.js • Stripe API</td>
-      <td><img src="https://img.shields.io/badge/DEVELOPMENT-FFA500?style=flat-square" /></td>
+      <td><b>BritBite</b></b></td>
+      <td>Subscription-based restaurant management</b></td>
+      <td>Laravel • Vue.js • Stripe API</b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></td>
+      <td><img src="https://img.shields.io/badge/DEVELOPMENT-FFA500?style=flat-square" /></b></td>
     </tr>
     <tr>
-      <td><b>SkillSynchr</b></td>
-      <td>HRM platform for remote teams</td>
-      <td>Laravel • React • MySQL</td>
-      <td><img src="https://img.shields.io/badge/LIVE-00FF00?style=flat-square" /></td>
+      <td><b>SkillSynchr</b></b></td>
+      <td>HRM platform for remote teams</b></td>
+      <td>Laravel • React • MySQL</b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b></td>
+      <td><img src="https://img.shields.io/badge/LIVE-00FF00?style=flat-square" /></b></td>
     </tr>
   </table>
 </div>
@@ -124,13 +259,7 @@
   </picture>
 </div>
 
-<!-- CAREER ROADMAP - GANTT CHART (using mermaid) -->
-<h2 align="center">🗺️ 2025 Career Roadmap</h2>
-<div align="center">
-  <img src="https://mermaid.ink/svg/pako:eNqVksFOwzAMhl_FynFaJYR2RwgkcUEgEJJWOCyTNWZi0qTJp22q9nc8F8-QNS26QdrBIDnZ-b_f-T5HYaZkRohEe49xQhOa-otzwtDcU28vP95Sq_ijHkvlMiDLT84TxkDtUT9GEDcXTwPPOKJ3cQvWWKfgGNrOnzCvXW0HAkqYeqPdTz0x1C7s8h8a3UAA71CXcixMkUU2zTOuayhgpqRrC2x0DSeUECgs9hAxaPgaU2yHZWqHjQ-UwA0bjQh4MBYIG3cbBkOjGAtX-Vm7Oo83nnuF-0KUlCbt0Z2H5hEir1A6DZLya0RRo9Bpdx9drUoG27CWL59W06PTR8Mwo_BN5GR9gRzXudM1GhT40c7aYcjPkt9sZR_9" alt="Roadmap Gantt" width="80%" />
-</div>
-
-<!-- WAKATIME WEEKLY STATS (if connected) -->
+<!-- WAKATIME WEEKLY STATS -->
 <h2 align="center">⏱️ Weekly Coding Activity</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MizanurRahman&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF" width="60%" />
@@ -141,34 +270,34 @@
 <div align="center">
   <table width="80%">
     <tr>
-      <td colspan="2"><b>📚 Academic Qualifications</b></td>
+      <td colspan="2"><b>📚 Academic Qualifications</b></b></td>
     </tr>
     <tr>
-      <td>B.Sc. in Software Engineering</td>
-      <td>Daffodil International University (DIU) - CGPA 3.25 (2018-2022)</td>
+      <td>B.Sc. in Software Engineering</b></b></td>
+      <td>Daffodil International University (DIU) - CGPA 3.25 (2018-2022)</b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></td>
     </tr>
     <tr>
-      <td>HSC (Science)</td>
-      <td>Ulipur Government Degree College - GPA 4.50 (2016-2017)</td>
+      <td>HSC (Science)</b></td>
+      <td>Ulipur Government Degree College - GPA 4.50 (2016-2017)</b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></td>
     </tr>
     <tr>
-      <td>SSC (Science)</td>
-      <td>Ulipur MS School and College - GPA 5.00 (2014-2015)</td>
+      <td>SSC (Science)</b></td>
+      <td>Ulipur MS School and College - GPA 5.00 (2014-2015)</b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b></td>
     </tr>
     <tr>
-      <td colspan="2"><b>📜 Professional Certifications</b></td>
+      <td colspan="2"><b>📜 Professional Certifications</b></b></b></b></b></b></b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b></td>
     </tr>
     <tr>
-      <td>Web Development (PHP Laravel)</td>
-      <td>Ostad & BASIS SEIP (2022-2024)</td>
+      <td>Web Development (PHP Laravel)</b></td>
+      <td>Ostad & BASIS SEIP (2022-2024)</b></b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b></td>
     </tr>
     <tr>
-      <td>Professional English Communication</td>
-      <td>BASIS SEIP & WSDANZ (2022)</td>
+      <td>Professional English Communication</b></td>
+      <td>BASIS SEIP & WSDANZ (2022)</b></b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b></td>
     </tr>
     <tr>
-      <td>Web Design</td>
-      <td>US Software Institute & Foresight IT (2018-2020)</td>
+      <td>Web Design</b></td>
+      <td>US Software Institute & Foresight IT (2018-2020)</b></b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b></td>
     </tr>
   </table>
 </div>
@@ -178,12 +307,12 @@
 <div align="center">
   <table width="60%">
     <tr>
-      <td>🇧🇩 Bangla (Native)</td>
-      <td><progress value="100" max="100"></progress> 100%</td>
+      <td>🇧🇩 Bangla (Native)</b></td>
+      <td><progress value="100" max="100"></progress> 100%</b></b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b></td>
     </tr>
     <tr>
-      <td>🇬🇧 English</td>
-      <td><progress value="85" max="100"></progress> 85%</td>
+      <td>🇬🇧 English</b></td>
+      <td><progress value="85" max="100"></progress> 85%</b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b></td>
     </tr>
   </table>
 </div>
@@ -196,21 +325,21 @@
       <td align="center">
         <b>🔭 Currently Working:</b><br />
         Leading dev team at Ibrahim Tech BD
-      </td>
+       </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b></td>
       <td align="center">
         <b>🌱 Learning Focus:</b><br />
         Docker • Kubernetes • AWS
-      </td>
+       </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b></td>
     </tr>
     <tr>
       <td align="center">
         <b>🤝 Open To:</b><br />
         Collaborations & Freelance
-      </td>
+       </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b></td>
       <td align="center">
         <b>⚡ Personal Motto:</b><br />
         "Clean code, happy life"
-      </td>
+       </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b></td>
     </tr>
   </table>
 </div>
@@ -242,22 +371,22 @@
 <div align="center">
   <table>
     <tr>
-      <td>📧 <b>Primary Email</b></td>
-      <td>mizanur35-2482@diu.edu.bd</td>
-      <td>📱 <b>Phone</b></td>
-      <td>+8801825337148</td>
+      <td>📧 <b>Primary Email</b></b></td>
+      <td>mizanur35-2482@diu.edu.bd</b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b></td>
+      <td>📱 <b>Phone</b></b></td>
+      <td>+8801825337148</b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b></td>
     </tr>
     <tr>
-      <td>🔄 <b>Secondary Email</b></td>
-      <td>mizan66788@gmail.com</td>
-      <td>📞 <b>Alternate</b></td>
-      <td>+8801755463304</td>
+      <td>🔄 <b>Secondary Email</b></b></td>
+      <td>mizan66788@gmail.com</b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b></td>
+      <td>📞 <b>Alternate</b></b></td>
+      <td>+8801755463304</b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b></td>
     </tr>
     <tr>
-      <td>📍 <b>Address</b></td>
-      <td>Gulshan 1, Dhaka - 1212</td>
-      <td>💰 <b>Expected Salary</b></td>
-      <td>BDT 80,000+</td>
+      <td>📍 <b>Address</b></b></td>
+      <td>Gulshan 1, Dhaka - 1212</b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b></td>
+      <td>💰 <b>Expected Salary</b></b></td>
+      <td>BDT 80,000+</b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b> </b></td>
     </tr>
   </table>
 </div>
