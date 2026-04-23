@@ -24,7 +24,7 @@
       <ul>
         <li>🎯 <strong>Core Specialties:</strong> Laravel • Next.js • Tailwind CSS • MySQL • RESTful APIs</li>
         <li>🛠️ <strong>Also Proficient in:</strong> CodeIgniter • React • Node.js • Express.js • Vue.js </li>
-        <li>🏆 <strong>Achievements:</strong> 30+ live projects delivered including ERP, CRM, and e-commerce platforms</li>
+        <li>🏆 <strong>Achievements:</strong> 150+ live projects delivered including ERP, CRM, and e-commerce platforms</li>
         <li>📫 <strong>Email:</strong> mizanur35-2482@diu.edu.bd | <strong>Phone:</strong> +8801825337148</li>
         <li>📍 <strong>Location:</strong> Gulshan 1, Dhaka - 1212, Bangladesh</li>
       </ul>
