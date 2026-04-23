@@ -23,10 +23,10 @@
       <p><strong>Senior Software Engineer</strong> with <strong>6+ years</strong> of experience in crafting <strong>high-performance, scalable web applications</strong>. Passionate about clean code, team leadership, and turning complex ideas into pixel-perfect products.</p>
       <ul>
         <li>🎯 <strong>Core Specialties:</strong> Laravel • Next.js • Tailwind CSS • MySQL • RESTful APIs</li>
-        <li>🛠️ <strong>Also Proficient in:</strong> CodeIgniter • React • Node.js • Express.js • Vue.js • Flutter</li>
+        <li>🛠️ <strong>Also Proficient in:</strong> CodeIgniter • React • Node.js • Express.js • Vue.js </li>
         <li>🏆 <strong>Achievements:</strong> 30+ live projects delivered including ERP, CRM, and e-commerce platforms</li>
-        <li>📫 <strong>Email:</strong> mzrahman075@gmail.com | <strong>Phone:</strong> +8801825337148</li>
-        <li>📍 <strong>Location:</strong> New Market, Dhaka - 1205, Bangladesh</li>
+        <li>📫 <strong>Email:</strong> mizanur35-2482@diu.edu.bd | <strong>Phone:</strong> +8801825337148</li>
+        <li>📍 <strong>Location:</strong> Gulshan 1, Dhaka - 1212, Bangladesh</li>
       </ul>
     </td>
     <td width="40%" align="center">
@@ -145,15 +145,15 @@
     </tr>
     <tr>
       <td>B.Sc. in Software Engineering</td>
-      <td>Daffodil International University (DIU) - CGPA 3.00 (2018-2022)</td>
+      <td>Daffodil International University (DIU) - CGPA 3.25 (2018-2022)</td>
     </tr>
     <tr>
       <td>HSC (Science)</td>
-      <td>Ulipur Government Degree College - GPA 3.50 (2016-2017)</td>
+      <td>Ulipur Government Degree College - GPA 4.50 (2016-2017)</td>
     </tr>
     <tr>
       <td>SSC (Science)</td>
-      <td>Ulipur MS School and College - GPA 4.00 (2014-2015)</td>
+      <td>Ulipur MS School and College - GPA 5.00 (2014-2015)</td>
     </tr>
     <tr>
       <td colspan="2"><b>📜 Professional Certifications</b></td>
@@ -184,10 +184,6 @@
     <tr>
       <td>🇬🇧 English</td>
       <td><progress value="85" max="100"></progress> 85%</td>
-    </tr>
-    <tr>
-      <td>🇸🇦 Arabic (Basic)</td>
-      <td><progress value="40" max="100"></progress> 40%</td>
     </tr>
   </table>
 </div>
@@ -222,7 +218,7 @@
 <!-- CONTACT & CONNECT SECTION -->
 <h2 align="center">🌐 Let's Connect</h2>
 <div align="center">
-  <a href="mailto:mzrahman075@gmail.com">
+  <a href="mailto:mizanur35-2482@diu.edu.bd">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Mizanur-Rahman07">
@@ -247,21 +243,21 @@
   <table>
     <tr>
       <td>📧 <b>Primary Email</b></td>
-      <td>mzrahman075@gmail.com</td>
+      <td>mizanur35-2482@diu.edu.bd</td>
       <td>📱 <b>Phone</b></td>
       <td>+8801825337148</td>
     </tr>
     <tr>
       <td>🔄 <b>Secondary Email</b></td>
-      <td>mizanur35-2482@diu.edu.bd</td>
+      <td>mizan66788@gmail.com</td>
       <td>📞 <b>Alternate</b></td>
       <td>+8801755463304</td>
     </tr>
     <tr>
       <td>📍 <b>Address</b></td>
-      <td>New Market, Katabon Rd, Dhaka - 1205</td>
+      <td>Gulshan 1, Dhaka - 1212</td>
       <td>💰 <b>Expected Salary</b></td>
-      <td>BDT 50,000+</td>
+      <td>BDT 80,000+</td>
     </tr>
   </table>
 </div>
