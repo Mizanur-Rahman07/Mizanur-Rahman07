@@ -57,7 +57,6 @@
       <td><img src="https://progress-bar.dev/95/" width="200" /></td>
       <td>5+ yrs</td>
     </tr>
-    
     <tr>
       <td><b>🎨 Tailwind CSS</b></td>
       <td>Expert</td>
@@ -87,12 +86,6 @@
       <td>Intermediate</td>
       <td><img src="https://progress-bar.dev/55/" width="200" /></td>
       <td>1+ yrs</td>
-    </tr>
-    <tr>
-      <td><b>⚛️ Next.js / React</b></td>
-      <td>Advanced</td>
-      <td><img src="https://progress-bar.dev/88/" width="200" /></td>
-      <td>1.5+ yrs</td>
     </tr>
     <tr>
       <td><b>☁️ AWS Cloud</b></td>
