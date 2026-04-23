@@ -51,6 +51,12 @@
       <th>Progress</th>
       <th>Years Exp</th>
     </tr>
+      <tr>
+      <td><b>⚛️ Next.js / React</b></td>
+      <td>Advanced</td>
+      <td><img src="https://progress-bar.dev/88/" width="200" /></td>
+      <td>1.5+ yrs</td>
+    </tr>
     <tr>
       <td><b>🚀 Laravel</b></td>
       <td>Expert</td>
